@@ -1,5 +1,8 @@
 import 'package:flutter/material.dart';
 
+import '../models/quake.dart';
+
+
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});
 
